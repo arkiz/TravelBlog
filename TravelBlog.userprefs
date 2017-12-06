@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{271FB009-3058-4957-B6D2-CBA0B0B183D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelBlog/MainActivity.cs">
+    <Files>
+      <File FileName="TravelBlog/MainActivity.cs" Line="3" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TravelBlog PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
